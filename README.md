@@ -20,5 +20,3 @@ python3 app.py
 ## Demo
 
 ![test image size](/gif/demo.gif)
-
-You can check the website here: https://crisp-summarizer.herokuapp.com/
